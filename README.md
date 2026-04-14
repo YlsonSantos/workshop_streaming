@@ -51,7 +51,7 @@ python silver_iceberg.py
 python gold_brazil.py
 ```
 
-### 📂 Estrutura do Projeto
+### Estrutura do Projeto
 
 ```text
 workshop_streaming/
